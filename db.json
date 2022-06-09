@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which year was BMSCE founded in?",
+      "answers": {
+        "a": "1946",
+        "b": "1950",
+        "c": "1942",
+        "d": "1947",
+        "e": "repeat"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "id": 2,
+      "question": "What is the name of the new block of the college?",
+      "answers": {
+        "a": "Diamond Jubilee",
+        "b": "Golden Jubilee",
+        "c": "Silver Jubilee",
+        "d": "Platinum Jubilee",
+        "e": "repeat"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "id": 3,
+      "question": "What time does the library close on Saturday?",
+      "answers": {
+        "a": "3 P M",
+        "b": "1 P M",
+        "c": "5 P M",
+        "d": "2 P M",
+        "e": "repeat"
+      },
+      "correct_answer": "b"
+    }
+  ]
+}
